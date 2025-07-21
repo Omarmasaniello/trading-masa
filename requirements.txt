@@ -1,0 +1,7 @@
+txt
+python-telegram-bot==20.6
+requests
+pandas
+finnhub-python
+txt
+twelvedata
